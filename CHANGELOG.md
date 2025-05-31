@@ -104,8 +104,35 @@
 
 # 18/08/25
 - Tons of optimization and code improvements
-- Added longHolds modifier
+- Added longHolds modifier (nneds fix)
 - Z-Sorting was Fixed
 
 # 18/08/25 #2
 - Fix receptor, arrow, hold draw order.
+
+# 19/02/25
+- Scripted Modifier (again)
+
+# 3/03/25
+- Fixed longHolds modifier, now it looks good.
+- Added Hold Rotation Mods (Rotation with the parent note position as origin)
+- DizzyHolds modifier was added.
+- Added more customizable stuff on Config.hx (not everything works for now)
+
+# 10/03/25
+- New Modififier percents management system.
+- Optimizations.
+- WIP Cache System (Discarted for now)
+
+# 10/03/25 (#2)
+- WIP Documentation
+- ScriptedModifier -> DynamicModifier
+- Support for Flixel 5.1 and below (no color transform :/)'
+- Fixes for Psych 0.6 support
+
+# 31/03/25
+- Code Cleanup.
+- Source organization.
+- A lot of optimizations.
+
+**NOTE**: Since we changed the source organization, the new adapter path is `modchart.backend.standalone` instead of `modchart.backend.standalone`
