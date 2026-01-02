@@ -7,7 +7,7 @@
     "contributors": ["TheoDev"],
     "tags": ["fnf", "friday-night-funkin"],
     "dependencies": {
-      "flixel": ""
+      "flixel": "6.1.0"
     },
     "url": "https://github.com/TheoDevelops/FunkinModchart"
   }
